@@ -91,7 +91,7 @@ The following platforms have been rejected out-of-hand:
 |                                                                                     |         |           |             |               |             |              |
 | Accesible in China                                                                  |☑        |?          |?           |?              |?            |?             |
 | Hostable in EU                                                                      |☑        |?          |?            |?              |?            |?             |
-| Hostable in US                                                                      |x        |?          |?            |?              |?            |?             |
+| Hostable in US                                                                      |☑        |?          |?            |?              |?            |?             |
 | Hostable in JP                                                                      |x        |?          |?            |?              |?            |?             |
 |                                                                                     |         |           |             |               |             |              |
 | <h4>Repostory and Project Management</h4>                                           |         |           |             |               |             |              |
