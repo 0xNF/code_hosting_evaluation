@@ -87,6 +87,13 @@ The following platforms have been rejected out-of-hand:
 
 | **Category**                                                                        |**Gitea**|**Backlog**| **Codebase**| **Perforce**  | **RhodeCode**| **CloudForge**|
 |---                                                                                  |---      |---        |-------------|---------------|-------------|--------------|
+| <h4>Hosting</h4>                                                                    |         |           |             |               |             |              |
+|                                                                                     |         |           |             |               |             |              |
+| Accesible in China                                                                  |☑        |?          |?           |?              |?            |?             |
+| Hostable in EU                                                                      |☑        |?          |?            |?              |?            |?             |
+| Hostable in US                                                                      |x        |?          |?            |?              |?            |?             |
+| Hostable in JP                                                                      |x        |?          |?            |?              |?            |?             |
+|                                                                                     |         |           |             |               |             |              |
 | <h4>Repostory and Project Management</h4>                                           |         |           |             |               |             |              |
 |                                                                                     |         |           |             |               |             |              |
 | Unlimited repositories for storage.                                                 |☑        |☑          |☑            |?             |?            |?             |
