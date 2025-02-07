@@ -89,7 +89,7 @@ The following platforms have been rejected out-of-hand:
 |---                                                                                  |---      |---        |-------------|---------------|-------------|--------------|
 | <h4>Hosting</h4>                                                                    |         |           |             |               |             |              |
 |                                                                                     |         |           |             |               |             |              |
-| Accesible in China                                                                  |☑        |?          |?           |?              |?            |?             |
+| Accesible in China                                                                  |☑        |☑          |?           |?              |?            |?             |
 | Hostable in EU                                                                      |☑        |x          |?            |?              |?            |?             |
 | Hostable in US                                                                      |☑        |☑          |?            |?              |?            |?             |
 | Hostable in JP                                                                      |x        |☑          |?            |?              |?            |?             |
